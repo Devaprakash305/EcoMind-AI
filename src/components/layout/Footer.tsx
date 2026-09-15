@@ -106,6 +106,8 @@ export const Footer: React.FC<FooterProps> = ({ setActiveTab, onOpenDisclaimer }
           <div className="flex items-center gap-1 text-slate-400">
             Built for a greener future with <Heart className="w-3.5 h-3.5 text-rose-500 fill-rose-500" />
           </div>
+          <div>
+            Designed & Developed by 
         </div>
       </div>
     </footer>
